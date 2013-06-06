@@ -1,3 +1,9 @@
+pyzmq (13.1.0-1~bpo70~dst+1) wheezy-saltstack; urgency=low
+
+  * Rebuild for wheezy-saltstack.
+
+ -- Joe Healy <joehealy@gmail.com>  Wed, 05 Jun 2013 22:11:53 +1000
+
 pyzmq (13.1.0-1) unstable; urgency=low
 
   * New upstream release built with zeromq3 (Closes: #698830)
